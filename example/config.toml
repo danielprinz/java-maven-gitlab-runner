@@ -1,0 +1,8 @@
+concurrent = 1
+check_interval = 0
+
+[[runners]]
+  name = "my-gitlab-runner"
+  url = "<ulr>"
+  token = "<token>"
+  executor = "shell"  
